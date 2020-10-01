@@ -21,9 +21,8 @@ I am fortunate to be advised by [Dr. Thoudam Doren Singh](http://cs.nits.ac.in/d
 
 Prior to starting my PhD, I received my master’s degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master’s, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr. Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?user=MoD6g-UAAAAJ&hl=en).
 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" />
-  
 
 
 **Talking about Personal Stuffs/Achievements:**
@@ -34,7 +33,11 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+
+</code>
 
 
 
