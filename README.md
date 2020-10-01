@@ -10,9 +10,6 @@
 <a href="https://www.instagram.com/_alokksingh/">
   <img align="left" alt="Alok's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://https://https://www.researchgate.net/profile/Alok_Singh108/">
-  <img align="left" alt="Alok's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reseachgate.svg" />
-</a>
 
 <br />
 <br />
@@ -22,6 +19,7 @@ Hi!
 I am a PhD student at the National Institute of Technology silchar. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. 
 I am fortunate to be advised by Dr. Thoudam Doren Singh and Prof. Sivaji Bandyopadhyay.
 
+Prior to starting my PhD, I received my master’s degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master’s, I invested my valuable time by working on Shot Boundary Detection under the supervison of Dr Dalton Meitei Thounaojam.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" />
