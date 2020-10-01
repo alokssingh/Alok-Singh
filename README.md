@@ -43,7 +43,7 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokssingh&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
+⭐️ Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT)
 
 Here are some ideas to get you started:
 
