@@ -7,9 +7,13 @@
 <a href="https://www.linkedin.com/in/alokssingh/">
   <img align="left" alt="Alok's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/___sakshamvarshney/">
+<a href="https://www.instagram.com/_alokksingh/">
   <img align="left" alt="Alok's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://https://https://www.researchgate.net/profile/Alok_Singh108/">
+  <img align="left" alt="Alok's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reseachgate.svg" />
+</a>
+
 <br />
 <br />
 
