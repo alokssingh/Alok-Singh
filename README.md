@@ -43,7 +43,8 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokssingh&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT)
+:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in building robust system that will able to generating short description of actions and event of video.
