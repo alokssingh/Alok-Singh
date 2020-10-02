@@ -47,7 +47,7 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in building robust system that will able to generating short description of actions and event of video.
+- 🔭 I’m currently working in building robust system that will able to generate a short description of actions and event in the video.
 - 🌱 I'm interested in enabling machines to learn from multiple modalities of data like text, audio, video, semantics as humans naturally do.
 - 👯 I’m looking to collaborate on end-to-end projects on Temporal video segmentation, Mahine translation and data-visualization
-
+ 
