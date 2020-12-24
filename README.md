@@ -51,3 +51,5 @@ Here are some ideas to get you started:
 - 🌱 I'm interested in enabling machines to learn from multiple modalities of data like text, audio, video, semantics as humans naturally do.
 - 👯 I’m looking to collaborate on end-to-end projects on Temporal video segmentation, Mahine translation and data-visualization
  
+
+![Visitor Count](https://profile-counter.glitch.me/{alokssingh}/count.svg)
