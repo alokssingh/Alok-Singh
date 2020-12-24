@@ -53,3 +53,6 @@ Here are some ideas to get you started:
  
 
 ![Visitor Count](https://profile-counter.glitch.me/{alokssingh}/count.svg)
+
+[![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
+
