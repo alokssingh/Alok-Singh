@@ -52,7 +52,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on end-to-end projects on Temporal video segmentation, Mahine translation and data-visualization
  
 
-![Visitor Count](https://profile-counter.glitch.me/{alokssingh}/count.svg)
-
 [![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
 
