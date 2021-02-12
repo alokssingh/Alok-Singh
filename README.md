@@ -53,4 +53,4 @@ Here are some ideas to get you started:
  
 
 [![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
-
+[![Repos](https://badges.pufler.dev/repos/alokssingh)]
