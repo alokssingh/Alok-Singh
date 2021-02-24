@@ -43,14 +43,11 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokssingh&show_icons=true&hide_border=true)
 
-⭐️ Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT)
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in building robust system that will able to generate a short description of actions and event in the video.
 - 🌱 I'm interested in enabling machines to learn from multiple modalities of data like text, audio, video and semantics as humans naturally do.
-- 👯 I’m looking to collaborate on end-to-end projects on Temporal video segmentation, Mahine translation and data-visualization
- 
 
 [![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
 ![Repos](https://badges.pufler.dev/repos/alokssingh)
