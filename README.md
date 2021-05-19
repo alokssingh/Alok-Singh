@@ -39,10 +39,20 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 </code>
 
+<h3 align="center">Stats</h3>
+<table class='news-table'>
+    <col width="18%">
+    <col width="82%">
+ <tr>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td> ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokssingh&show_icons=true&hide_border=true)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokssingh&layout=compact)](https://alokssingh.github.io/)
+   
+   </td>
+   
+    </tr>
 
 
-![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokssingh&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokssingh&layout=compact)](https://alokssingh.github.io/)
 
 
 Here are some ideas to get you started:
