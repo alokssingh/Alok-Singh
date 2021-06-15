@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 
 [![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
 ![Repos](https://badges.pufler.dev/repos/alokssingh)
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE"></script> 
