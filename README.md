@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 - 🌱 I'm interested in enabling machines to learn from multiple modalities of data like text, audio, video and semantics as humans naturally do.
 
 [![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
-![Repos](https://badges.pufler.dev/repos/alokssingh)
+#![Repos](https://badges.pufler.dev/repos/alokssingh)
  
