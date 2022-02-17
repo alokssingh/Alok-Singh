@@ -47,7 +47,7 @@ Prior to starting my PhD, I received my master’s degree in Computer Science an
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in building robust system that will able to generate a short description of actions and event in the video.
+- 🔭 I’m currently working in building robust system that will able to generate a short description of actions and events in the video.
 - 🌱 I'm interested in enabling machines to learn from multiple modalities of data like text, audio, video and semantics as humans naturally do.
 
 [![Visits Badge](https://badges.pufler.dev/visits/alokssingh/alokssingh)](https://alokssingh.github.io/)
