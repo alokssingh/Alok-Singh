@@ -16,7 +16,7 @@
 
 Hi!
 
-I did my PhD from [National Institute of Technology silchar](http://nits.ac.in/). My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. 
+I received my PhD from [National Institute of Technology silchar](http://nits.ac.in/). My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. 
 I am fortunate to be advised by [Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](https://scholar.google.co.in/citations?user=qaIbHNwAAAAJ&hl=en).
 
 Prior to starting my PhD, I received my master’s degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master’s, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr. Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?user=MoD6g-UAAAAJ&hl=en).
