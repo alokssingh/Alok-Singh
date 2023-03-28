@@ -16,10 +16,13 @@
 
 Hi!
 
-I received my PhD from [National Institute of Technology silchar](http://nits.ac.in/). My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. 
-I am fortunate to be advised by [Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](https://scholar.google.co.in/citations?user=qaIbHNwAAAAJ&hl=en).
+Hi!
 
-Prior to starting my PhD, I received my master’s degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master’s, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr. Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?user=MoD6g-UAAAAJ&hl=en).
+Currently, I am working with [Sustainable Finance Group](https://www.smithschool.ox.ac.uk/research/machine-learning-data-science) at the [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.
+
+I received my PhD from [National Institute of Technology silchar](http://http://www.nits.ac.in/) Assam, India. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. I am fortunate to be advised by [ Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](http://www.jaduniv.edu.in/profile.php?uid=2).
+
+Before starting my PhD, I received my master's degree in Computer Science and Engineering from NIT Silchar, India in 2019. During my master's, I invested my valuable time by working on Shot Boundary Detection under the supervision of [Dr Dalton Meitei Thounaojam](http://cs.nits.ac.in/dalton/).
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/2juvZoQ3oLa4U/giphy.gif"  width="350" height="250"/> -->
   
