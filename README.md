@@ -30,7 +30,7 @@ Before starting my PhD, I received my master's degree in Computer Science and En
 
 **Talking about Personal Stuffs/Achievements:**
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: alok_rs@cse.nits.ac.in
+- 📫 How to reach me: alok.rawat478@gmail.com
 
 &nbsp;
 
